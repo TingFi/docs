@@ -1,0 +1,18 @@
+# Table of contents
+
+* [OVERVIEW](README.md)
+* [DISCLAIMER](disclaimer.md)
+* [Why need Defi 2.0](why-need-defi-2.0/README.md)
+  * [TINGFI 2.0 IS 1ST NFT DEFI 2.0 PLATFORM - WITH A HIGH APY AND A SMALLCAP (10.000.000 PFI)](why-need-defi-2.0/tingfi-2.0-is-1st-nft-defi-2.0-platform-with-a-high-apy-and-a-smallcap-10.000.000-pfi.md)
+  * [WHY LOWEST TRADING FEE IS A CORE STRATEGY?](why-need-defi-2.0/why-lowest-trading-fee-is-a-core-strategy.md)
+  * [TingFi\_THE JOURNEY FROM DEFI 2.0 TO NFTFI, METAVERSE AND WEB3.0](why-need-defi-2.0/tingfi\_the-journey-from-defi-2.0-to-nftfi-metaverse-and-web3.0.md)
+  * [WHY DOES UDEFI AIM TO SIMPLIFY AND ENSURE SUSTAINABLE GROWTH IN VALUE?](why-need-defi-2.0/why-does-udefi-aim-to-simplify-and-ensure-sustainable-growth-in-value.md)
+  * [TINGFI - THE FIRST MEITS LAYER 2 PROTOCOL POWERFUL & AMM DECENTRALIZED EXCHANGE](why-need-defi-2.0/tingfi-the-first-meits-layer-2-protocol-powerful-and-amm-decentralized-exchange.md)
+* [TOKENOMICS](tokenomics.md)
+* [FLOOR PRICE MODEL](floor-price-model.md)
+* [STEP-BY-STEP PLAN TO OWN PFI 100% SAFETY](step-by-step-plan-to-own-pfi-100-safety/README.md)
+  * [WANT TO PURCHASE YOUR PFI EASILY ?](step-by-step-plan-to-own-pfi-100-safety/want-to-purchase-your-pfi-easily.md)
+* [AUDIT](audit.md)
+* [ROADMAP](roadmap.md)
+* [SOCIAL CHANNEL](social-channel.md)
+* [CONCLUSION](conclusion.md)
