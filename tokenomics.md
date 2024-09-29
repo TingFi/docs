@@ -1,4 +1,4 @@
 # TOKENOMICS
 
-Max Supply: 100.000.000 TFI&#x20;
+Max Supply: 1.000.000.000 TFI&#x20;
 
